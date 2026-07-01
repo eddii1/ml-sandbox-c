@@ -1,4 +1,4 @@
-# C-ML-Sandbox_2
+# C++ ML SANDBOX
 
 Proiectul este un sandbox mic pentru modele ML in C++. Ideea este sa avem o structura simpla de OOP, nu o aplicatie mare.
 
